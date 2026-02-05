@@ -1,16 +1,7 @@
 ## Hi there 👋
 
-<!--
-**manas-tyagi/manas-tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... XXX
-- 🌱 I’m currently learning ... YYYY
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Intelligent Document Processing
+- 🌱 I’m currently learning ... Agentic Development
+- 🤔 I’m looking for help with ... Intelligent Document Processing, Vision LLM
+- 💬 Ask me about ... Intelligent Document Processing, OCR, RPA, Process Automation
